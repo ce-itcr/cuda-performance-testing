@@ -58,10 +58,8 @@ Las pruebas fueron desarrolladas y evaluadas en un sistema con GPU NVIDIA GeForc
 - Mendoza Mata Jose Fabian,
 - Ortiz Vega Angelo Jesus
 
-
-
 # Fecha
 31/03/2024
 
-Repositorio
+# Repositorio
 Encuentra el proyecto completo en: [GitHub](https://github.com/ce-itcr/cuda-performance-testing).
